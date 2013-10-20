@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem 'omniauth', '1.1.3'
 gem 'omniauth-twitter', '0.0.15'
